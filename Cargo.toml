@@ -1,0 +1,10 @@
+[package]
+name = "adhkar-rs-asma-ul-husna-lexicon"
+version = "1.0.0"
+edition = "2021"
+description = "99 Names of Allah (Al-Asma' Al-Husna) Morphological & Quranic Lexicon"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "adhkar_rs_asma_ul_husna_lexicon"
+path = "main.rs"
